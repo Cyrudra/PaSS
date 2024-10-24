@@ -30,3 +30,5 @@ This program is a password generator that creates a list of potential passwords 
 4. Run the script using the command:
    ```bash
    python PaSS.py
+
+This project is for educational purposes only. Use responsibly.
